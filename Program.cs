@@ -8,7 +8,7 @@ namespace MainAssembly{
             string enc = manager.encrypt(my_text, manager.seed);
             string dec = manager.decrypt(enc, manager.seed);
             Console.WriteLine("Encrypted: " + enc);
-            Console.WriteLine("Dec: " + dec);
+            Console.WriteLine("Decrypted: " + dec);
         }
     }
 }
