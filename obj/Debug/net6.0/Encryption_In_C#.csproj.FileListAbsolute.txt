@@ -1,0 +1,15 @@
+C:\Programming\.NET\Encryption_In_C#\bin\Debug\net6.0\Encryption_In_C#.exe
+C:\Programming\.NET\Encryption_In_C#\bin\Debug\net6.0\Encryption_In_C#.deps.json
+C:\Programming\.NET\Encryption_In_C#\bin\Debug\net6.0\Encryption_In_C#.runtimeconfig.json
+C:\Programming\.NET\Encryption_In_C#\bin\Debug\net6.0\Encryption_In_C#.dll
+C:\Programming\.NET\Encryption_In_C#\bin\Debug\net6.0\Encryption_In_C#.pdb
+C:\Programming\.NET\Encryption_In_C#\obj\Debug\net6.0\Encryption_In_C#.csproj.AssemblyReference.cache
+C:\Programming\.NET\Encryption_In_C#\obj\Debug\net6.0\Encryption_In_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\.NET\Encryption_In_C#\obj\Debug\net6.0\Encryption_In_C#.AssemblyInfoInputs.cache
+C:\Programming\.NET\Encryption_In_C#\obj\Debug\net6.0\Encryption_In_C#.AssemblyInfo.cs
+C:\Programming\.NET\Encryption_In_C#\obj\Debug\net6.0\Encryption_In_C#.csproj.CoreCompileInputs.cache
+C:\Programming\.NET\Encryption_In_C#\obj\Debug\net6.0\Encryption_In_C#.dll
+C:\Programming\.NET\Encryption_In_C#\obj\Debug\net6.0\refint\Encryption_In_C#.dll
+C:\Programming\.NET\Encryption_In_C#\obj\Debug\net6.0\Encryption_In_C#.pdb
+C:\Programming\.NET\Encryption_In_C#\obj\Debug\net6.0\Encryption_In_C#.genruntimeconfig.cache
+C:\Programming\.NET\Encryption_In_C#\obj\Debug\net6.0\ref\Encryption_In_C#.dll
